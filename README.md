@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm woojin Jang</h1>
-<h3 align="center">저는 프로그래머가 되고 싶은 사람입니다</h3>
+<h3 align="center">저는 지구의 환경을 중심으로 생각하는 멋진 프로그래머가 되고 싶은 장우진입니다</h3>
 
 - 🔭 I’m currently working on **구산중에서 재학중**
 
