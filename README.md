@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm woojin Jang</h1>
 <h3 align="center">저는 프로그래머가 되고 싶은 사람입니다</h3>
 
-- 🔭 I’m currently working on **구산중에서 노동중**
+- 🔭 I’m currently working on **구산중에서 재학중**
 
 - 🤝 I’m looking for help with **c++, Python, Tensorflow, Git, Algorithm**
 
 - 📫 How to reach me **woojang863@gmail.com**
 
-- ⚡ Fun fact **나는 발가락이 10개에요**
+- ⚡ Fun fact **잘생겼다!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
